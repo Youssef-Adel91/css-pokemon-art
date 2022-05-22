@@ -2,4 +2,4 @@
 One of my simple css templates
 
 
-##project notes
+##project notes:
